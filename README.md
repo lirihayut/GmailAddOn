@@ -49,10 +49,9 @@ AddOn/
 ---
 
 ##  Permissions (OAuth Scopes)
-
-* `current.message.readonly` – Read only the open email
-* `external_request` – Communicate with scoring backend
-* `script.locale` – Localized user experience
+* `gmail.readonly` – Required to fetch full message body and metadata for analysis.
+* `script.external_request` – Allows communication with the external scoring backend.
+* `script.locale` – Ensures a localized user experience.
 
 ---
 
