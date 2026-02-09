@@ -1,5 +1,5 @@
 
-#  Upwind Security Scorer (Gmail Add-on)
+#  Upwind Email Security Scorer (Gmail Add-on)
 
 A native Gmail Add-on that provides a **security intelligence layer** directly inside your inbox. It allows users to analyze email risks and manage their security posture without leaving Gmail.
 
